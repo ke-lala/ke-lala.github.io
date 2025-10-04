@@ -69,8 +69,8 @@ export default defineConfigWithTheme<ThemeConfig>({
   // sitemap: {
   //   hostname: 'https://vitepress-theme-bluearchive.vercel.app',
   // },
-  title: "Sensei's 部落格",
-  description: "Sensei's 部落格",
+  title: "ke-lala",
+  description: "ke-lala",
   themeConfig: {
     // navBar
     menuList: [
@@ -81,8 +81,8 @@ export default defineConfigWithTheme<ThemeConfig>({
     //banner区配置
     videoBanner: false,
     name: "ke-lala",
-    welcomeText: 'Hello, VitePress',
-    motto: ['和你的日常，就是奇迹', '何気ない日常で、ほんの少しの奇跡を見つける物語。'],
+    welcomeText: 'nice to meet you',
+    motto: ['全ての終わりは新たな始まりである', '全ての終わりは新たな始まりである'],
     social: [
       { icon: 'github', url: 'https://github.com/ke-lala' },
       { icon: 'bilibili', url: 'https://space.bilibili.com/3546690728495257?spm_id_from=333.1007.0.0&_refluxos=a10' },
