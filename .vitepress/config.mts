@@ -80,14 +80,14 @@ export default defineConfigWithTheme<ThemeConfig>({
 
     //banner区配置
     videoBanner: false,
-    name: "Sensei's 部落格",
+    name: "ke-lala",
     welcomeText: 'Hello, VitePress',
     motto: ['和你的日常，就是奇迹', '何気ない日常で、ほんの少しの奇跡を見つける物語。'],
     social: [
-      { icon: 'github', url: 'https://github.com/' },
-      { icon: 'bilibili', url: 'https://www.bilibili.com/' },
-      { icon: 'qq', url: 'https://im.qq.com/index/' },
-      { icon: 'wechat', url: 'https://weixin.qq.com/' },
+      { icon: 'github', url: 'https://github.com/ke-lala' },
+      { icon: 'bilibili', url: 'https://space.bilibili.com/3546690728495257?spm_id_from=333.1007.0.0&_refluxos=a10' },
+      { icon: 'pages', url: 'https://ke-lala.github.io/studio' },
+      { icon: 'mail', url: 'liziruikelala@gmail.com' },
     ],
 
     //spine语音配置，可选zh/jp
