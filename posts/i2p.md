@@ -1,7 +1,7 @@
 ---
-title: 加入i2p
+title: I2P补种文件
 date: 2025.11.9
-tags: [i2p, 反审查]
+tags: [匿名, i2p]
 pinned: true
 head:
   - - meta
@@ -12,10 +12,8 @@ head:
       content: SEO优化 关键词
 ---
 
-i2p补种文件，中国大陆可用
+补种文件📃
 
 ---
 
----
-
-补种文件：https://github.com/ke-lala/kelala/tree/main
+https://github.com/ke-lala/kelala/tree/main
