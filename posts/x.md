@@ -1,8 +1,8 @@
 ---
-title: 推特cos精选
+title: 推特美图精选
 date: 2025.11.9
-tags: [美图］
-pinned:
+tags: [标签1, 标签2]
+pinned: true 文章置顶，默认false
 head:
   - - meta
     - name: description
