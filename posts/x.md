@@ -2,7 +2,7 @@
 title: 推特cos精选
 date: 2025.11.9
 tags: [美图］
-pinned: false
+pinned:
 head:
   - - meta
     - name: description
